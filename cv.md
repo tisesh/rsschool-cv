@@ -18,7 +18,7 @@ function multiply(a, b){
 ```  
 __Work experience:__  
 I participated in a Hackathon at UNI, but I have no real work experience.  
-My project: [project](https://github.com/tisesh/rsschool-cv)
+My project: https://github.com/tisesh/rsschool-cv
 
 __Education:__  
 I completed my bachelor's degree at the university of my city.
