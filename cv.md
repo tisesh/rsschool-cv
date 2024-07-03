@@ -12,4 +12,6 @@ __An example of my code on JavaScript:__
 function multiply(a, b){
  return a * b;
 }
-```
+```  
+__Work experience:__  
+I participated in a Hackathon at UNI, but I have no real work experience.
